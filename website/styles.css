@@ -1,0 +1,279 @@
+body
+{
+	background-color:#0270A1;
+	
+	font-family: Verdana;
+	font-weight: bold;
+	font-size:12px;
+}
+
+a
+{
+	outline:none;
+	text-decoration: none;
+	color: #000000;
+}
+
+input
+{
+	background-color: #0270A1;
+	color: #FFFFFF;
+	
+	font-weight: bold;
+	font-size: 11px;
+	
+	border:solid;
+	border-width:1px;
+	border-color:#002460;
+}
+
+select
+{
+	background-color: #0270A1;
+	color: #FFFFFF;
+	
+	font-weight: bold;
+	font-size: 11px;
+	
+	border:solid;
+	border-width:1px;
+	border-color:#002460;
+}
+
+option.classe
+{
+	background-color: #000;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.site
+{
+    width: 1000px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.header
+{
+    height: 159px;
+	text-align:center;
+}
+
+.menu a
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+	outline:none;
+	text-align:center;
+	font-size: 14px;
+	font-style:italic;
+	color: #FFFFFF;
+	
+	background-image:url(images/boutonMenu.png);
+	background-repeat: no-repeat;
+	background-position:center;
+	
+	float:left;
+	width: 250px;
+	text-align:center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.corp
+{
+	margin-top: 60px;
+}
+
+.fondHaut
+{
+	background-image:url(images/fondHaut.png);
+	height:13px;
+	width:969px;
+	
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.fondMilieu
+{
+	background-image:url(images/fondMilieu.png);
+	width:959px;
+	
+	padding-left: 10px;
+	
+	margin-left:auto;
+	margin-right:auto;
+	
+	color: #000000;
+}
+
+.fondBas
+{
+	background-image:url(images/fondBas.png);
+	
+	margin-left:auto;
+	margin-right:auto;
+	
+	height:13px;
+	width:969px;
+}
+
+.titrePage
+{
+	font-size: 14px;
+	font-weight:bold;
+	
+	text-align:center;
+	
+	margin-bottom: 20px;
+}
+
+.titre
+{
+	font-size: 14px;
+	font-weight:bold;
+	
+	margin-top: 20px;
+}
+
+.contenu
+{
+	margin-top: 10px;
+}
+
+.nomPrenom
+{
+	text-align:center;
+	font-size: 10px;
+}
+
+.footer
+{
+	text-align:center;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+.trombi
+{
+	width: 950px;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.trombi
+{
+	height: 190px;
+}
+
+td#trombi
+{
+	width: 190px;
+	text-align:center;
+}
+
+.imageTrombi
+{
+	text-align:center;
+}
+
+.texteTrombi
+{
+	margin-left: 370px;	
+}
+
+.personne
+{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.imagePersonne
+{
+	width: 150px;
+}
+
+.textePersonne
+{
+	width: 550px;
+}
+
+.admin
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.adminBoutons
+{
+	width: 25px;
+}
+
+.asso
+{
+	width: 600px;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.imageAsso
+{
+	width: 200px;
+	text-align: center;
+}
+
+.texteAsso
+{
+	width: 400px;
+	padding-left: 10px;
+}
+
+.titreAsso
+{
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+
+.bureauAsso
+{
+	font-size: 10px;
+}
+
+.message
+{
+	color: #090;
+	background-color:#DDD;
+	
+	text-align:center;
+	
+	margin-left: auto;
+	margin-right:auto;
+	
+	width:400px;
+	height: 15px;
+}
+
+.erreur
+{
+	color:#F00;
+	
+	text-align:center;
+	
+	margin-left: auto;
+	margin-right:auto;
+	
+	width:400px;
+	height: 15px;
+}
+
+.formulaire
+{
+	margin-left: 325px;
+	margin-top: 10px;
+}
